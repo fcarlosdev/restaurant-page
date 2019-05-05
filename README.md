@@ -1,7 +1,4 @@
-# Project Restaurant Page
+# Restaurante Page Project
 
-Applying the knowledge acquired about DOM, JavaScript Classes and ES6 Modules from [The Odin Project: Restaurante Page](https://www.theodinproject.com/courses/javascript/lessons/restaurant-page).
-
-To see the final result click at [Restaurant Page]()
-
-
+More information [click here](https://github.com/fcarlosdev/the_odin_project/tree/master/restaurant-page).
+To execute the project [click here](https://fcarlosdev.github.io/restaurant-page/)
